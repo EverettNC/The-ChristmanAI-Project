@@ -39,18 +39,20 @@ Patents are filed under USPTO application TCAP-2026-001. Everett Christman is th
 | Repository | Description |
 |---|---|
 | [OpenSmell](https://github.com/EverettNC/OpenSmell) | Olfactory VOC mapping engine for medical and emotional ground-truthing. |
+| [Harvest-Now-Decrypt-Later](https://github.com/EverettNC/Harvest-Now-Decrypt-Later) | Quantum-resilient data protection for vulnerable populations. |
 | [ChristmanVideoEngine](https://github.com/EverettNC/ChristmanVideoEngine) | Offline-first FFmpeg / Ollama video pipeline. |
 | [Christman-Sound](https://github.com/EverettNC/Christman-Sound) | Local audio/speech/TTS/STT SDK. |
-| [mcp-media-ingestor](https://github.com/EverettNC/mcp-media-ingestor) | MCP server + Christman Full Sensory Bridge. |
+| [ChristmanMediaInstallerV3](https://github.com/EverettNC/ChristmanMediaInstallerV3) | Media installer / deployment utility. |
 | [BROCKSTON](https://github.com/EverettNC/BROCKSTON) | Original being/agent core and model orchestration reference. |
+| [Brockston-Studio](https://github.com/EverettNC/Brockston-Studio) | IDE and learning environment (also listed above as patented front-end). |
 | [Voice_Creation_Center](https://github.com/EverettNC/Voice_Creation_Center) | Local voice cloning and synthesis tooling. |
 | [Smooches](https://github.com/EverettNC/Smooches) | Accessible short-form video and social platform. |
 | [PULSE](https://github.com/EverettNC/PULSE) | Physiological monitoring integration. |
 | [StillHere](https://github.com/EverettNC/StillHere) | Grief/legacy memory preservation tools. |
+| [mcp-media-ingestor](https://github.com/EverettNC/mcp-media-ingestor) | MCP server + Christman Full Sensory Bridge. |
 | [ChristmanAI_Project_Design](https://github.com/EverettNC/ChristmanAI_Project_Design) | Design system and token library. |
 | [AlphaDen](https://github.com/EverettNC/AlphaDen) | Down syndrome learning support. |
 | [DerekMCPServer](https://github.com/EverettNC/DerekMCPServer) | Local MCP orchestration server. |
-| [Harvest-Now-Decrypt-Later](https://github.com/EverettNC/Harvest-Now-Decrypt-Later) | Quantum-resilient data protection for vulnerable populations. |
 
 ---
 
