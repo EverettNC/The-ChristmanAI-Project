@@ -86,6 +86,8 @@ Key components:
 - **Nebius AI Discovery Awards 2026** — Semifinalist (646 submissions, 198 advanced)
 - **AWS Startup Showcase** — Featured startup
 
+![Claude for Startups Welcome](assets/recognition/claude-for-startups-welcome.jpg)
+
 ---
 
 ## Technology Stack
