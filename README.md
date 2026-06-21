@@ -70,8 +70,9 @@ Patents are filed under USPTO application TCAP-2026-001. Everett Christman is th
 
 - Moonshot AI (Kimi) — partner account
 - NVIDIA — partner account
-- Meta — Llama license / partnership pipeline
 - Ollama — foundational local inference stack
+
+*Note: partnership language is updated only when a public commercial or technical agreement exists. No unconfirmed discussions are listed.*
 
 ---
 
