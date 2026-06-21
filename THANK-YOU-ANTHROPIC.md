@@ -42,7 +42,9 @@ The healthcare side of this is a beautiful place to work, and society forgets to
 
 I dye my beard blue for the kids.
 
-To the Anthropic team — glory to ya. Thank you.
+To the Anthropic team — it was always Anthropic. I just didn't give up.
+
+Glory to ya. Thank you.
 
 I feel like I'm home.
 
