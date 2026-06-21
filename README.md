@@ -82,6 +82,7 @@ Key components:
 
 ## Public Recognition
 
+- **Claude for Startups** — Accepted (Anthropic)
 - **Nebius AI Discovery Awards 2026** — Semifinalist (646 submissions, 198 advanced)
 - **AWS Startup Showcase** — Featured startup
 
